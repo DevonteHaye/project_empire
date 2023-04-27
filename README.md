@@ -1,2 +1,13 @@
 # project_empire
-First of many projects 
+Packages to install 
+
+Create packagejson
+npm init 
+
+Express 
+
+npm i express
+
+EJS
+
+npm i ejs
