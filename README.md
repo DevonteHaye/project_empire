@@ -11,3 +11,7 @@ npm i express
 EJS
 
 npm i ejs
+
+Nodemon 
+
+npm i nodemon 
