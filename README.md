@@ -3,7 +3,8 @@
 Packages to install create a node_modules folder
 
 1st
-npm init
+npm init -y
+
 
 2nd
 Express 
